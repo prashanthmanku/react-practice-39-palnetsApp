@@ -1,0 +1,22 @@
+.each-slide {
+  /* background-color: red; */
+  width: 90%;
+}
+.slide-img {
+  width: 80%;
+  max-width: 500px;
+  margin: auto;
+}
+.slide-heading {
+  color: #f8fafc;
+  font-size: 22px;
+  font-weight: 500;
+}
+.description {
+  color: #f8fafc;
+  font-size: 16px;
+  font-weight: 300;
+}
+.width {
+  width: 90%;
+}
